@@ -1,6 +1,3 @@
-  
-## Desenvolvedora Front-End em formação | HTML, CSS, JavaScript, React | UX/UI Design
-
 
 
 <h1 align="center">👩‍💻 Olá, eu sou Desenvolvedora Front-End em formação</h1>
@@ -10,14 +7,19 @@ Transformando ideias em interfaces modernas, funcionais e centradas no usuário 
 </p>
 
 
-
 ## 
-
+<div style="
+  background: linear-gradient(135deg, #00c6ff, #7b2ff7);
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  
 🎓 Estudante de Desenvolvimento Front-End pelo SENAI  
 💻 Focada em criar interfaces modernas, responsivas e intuitivas  
 🎨 Apaixonada por design e experiência do usuário (UX/UI)  
 📚 Sempre aprendendo novas tecnologias  
 
+</div>
 
 
 <div style="display: flex; gap: 10px;">
@@ -27,7 +29,7 @@ Transformando ideias em interfaces modernas, funcionais e centradas no usuário 
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+  
 ##
 
 
